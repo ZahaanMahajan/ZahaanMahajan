@@ -5,7 +5,10 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on valorant info app<br>👯 I’m looking to collaborate on any flutter project. <br>🌱 I’m currently learning flutter and dart. <br> I am good with data structures in java. <br>💬 Ask me about app development. <br>
+I’m currently learning ai ml<br>
+I’m looking to collaborate on any flutter project.<br>
+I am good with data structures in java. <br>💬
+Ask me about app development. <br>
 
 
 ## 🌐 Socials:
