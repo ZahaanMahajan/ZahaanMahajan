@@ -5,9 +5,9 @@
 
 
 # 💫 About Me:
-I’m currently learning ai ml<br>
-I’m looking to collaborate on any flutter project.<br>
-I am good with data structures in java. <br>💬
+I’m currently learning Machine Learning & Artificial Intelligence <br>
+I’m looking for collaborations on any flutter project.<br>
+I'm good with Data Structures in java. <br>💬
 Ask me about app development. <br>
 
 
