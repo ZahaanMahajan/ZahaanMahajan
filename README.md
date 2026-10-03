@@ -2,11 +2,21 @@
 <h1 align="center">Hi 👋, I'm Zahaan Javaid Mahajan</h1>
 <h3 align="center">A passionate flutter/dart developer from Kashmir</h3>
 
-# 💫 About Me:
-I’m constantly learning something new. <br>
-I’m looking for collaborations on any flutter project.<br>
-I'm good with Data Structures and Algorithm. <br>💬
-Ask me about app development. <br>
+## 💫 About Me:
+
+I’m a Software Engineer transitioning into **DevOps, Cloud & Platform Engineering**, with a strong focus on building, automating, and operating reliable infrastructure.
+
+- ☁️ Exploring **AWS, Cloud Infrastructure & Infrastructure as Code**
+- ☸️ Hands-on with **Kubernetes, Helm, Docker & Linux**
+- 🔄 Building **CI/CD pipelines** and GitOps workflows
+- 🐍 Using **Python** to automate DevOps and infrastructure tasks
+- 🏠 Running a self-hosted **Kubernetes homelab** with Proxmox and Talos Linux
+- 📦 Working with **NFS storage, MetalLB, Traefik, cert-manager & Argo CD**
+- 🛠️ Building practical projects to strengthen my **DevOps/SRE & Platform Engineering** skills
+- 💻 Formerly focused on **Flutter/Dart application development**
+- 📚 Always learning, experimenting, and improving through hands-on projects
+
+> **Currently:** Building, breaking, debugging, and automating infrastructure — one project at a time.
 
 
 ## 🌐 Socials:
