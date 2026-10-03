@@ -1,6 +1,6 @@
 ![MasterHead](https://assets-global.website-files.com/6270e8022b05abb840d27d6f/6308d1ab615e60c9047c9d06_AppDev_Flutter-tools.png)
 <h1 align="center">Hi 👋, I'm Zahaan Javaid Mahajan</h1>
-<h3 align="center">A passionate flutter/dart developer from Kashmir</h3>
+<h3 align="center">From Kashmir</h3>
 
 ## 💫 About Me:
 
