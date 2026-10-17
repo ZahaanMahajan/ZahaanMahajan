@@ -148,7 +148,3 @@ A terminal-inspired portfolio website deployed to my Kubernetes homelab, with ap
   <br />
   <b>One deployment at a time. 🚀</b>
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ZahaanMahajan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
