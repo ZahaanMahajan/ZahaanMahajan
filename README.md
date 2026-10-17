@@ -118,29 +118,33 @@ I'm a software engineer **transitioning into DevOps, Cloud, and Platform Enginee
 
 A self-hosted Kubernetes platform built to explore cluster operations, networking, storage, and GitOps end to end.
 
+**🚀 Delivery pipeline**
+
 ```mermaid
 flowchart LR
-    DEV([👨‍💻 Developer]) -->|git push| GH[(GitHub)]
-    GH -->|trigger| CI[⚙️ GitHub Actions]
-    CI -->|build & scan| REG[(📦 Container Registry)]
-    CI -->|update manifests| GH
-    GH -->|watch| ARGO[🚀 Argo CD]
-    ARGO -->|sync| K8S
+    DEV["👨‍💻 Developer"] -->|git push| GH["🐙 GitHub"]
+    GH --> CI["⚙️ GitHub Actions<br/>test · build · scan"]
+    CI --> REG[("📦 Container<br/>Registry")]
+    CI -->|update manifests| GIT["📂 Manifests<br/>in Git"]
+    GIT --> ARGO["🚀 Argo CD"]
+    ARGO -->|sync| K8S["☸️ Kubernetes<br/>Talos on Proxmox"]
 
-    subgraph K8S [☸️ Kubernetes on Talos Linux]
-        direction LR
-        TR[🌐 Traefik] --> APP[📱 Apps]
-        MLB[MetalLB] --> TR
-        CM[🔐 cert-manager] -.-> TR
-        APP --> NFS[(💾 NFS CSI)]
-    end
+    classDef node fill:#1f2937,stroke:#00A98F,stroke-width:2px,color:#ffffff
+    class DEV,GH,CI,REG,GIT,ARGO,K8S node
+```
 
-    CF[☁️ Cloudflare DNS] --> MLB
-    USER([🌍 Users]) --> CF
+**🌐 Traffic flow**
 
-    style K8S fill:#0d1117,stroke:#00A98F,stroke-width:2px,color:#fff
-    style ARGO fill:#EF7B4D,stroke:#fff,color:#fff
-    style CI fill:#2088FF,stroke:#fff,color:#fff
+```mermaid
+flowchart LR
+    USER["🌍 User"] --> CF["☁️ Cloudflare<br/>DNS"]
+    CF --> MLB["🔀 MetalLB"]
+    MLB --> TR["🌐 Traefik<br/>TLS via cert-manager"]
+    TR --> APP["📱 App"]
+    APP --> NFS[("💾 NFS<br/>storage")]
+
+    classDef node fill:#1f2937,stroke:#00A98F,stroke-width:2px,color:#ffffff
+    class USER,CF,MLB,TR,APP,NFS node
 ```
 
 | Layer | Technology |
@@ -209,7 +213,17 @@ A terminal-inspired portfolio hosted on my Kubernetes homelab. Every change to t
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZahaanMahajan&theme=tokyo-night&hide_border=true&area=true&radius=12" alt="Contribution activity graph" width="100%" />
+
+## 🟢 Contribution Activity
+
+<p align="center">
+  <img
+    src="https://ghchart.rshah.org/00A98F/ZahaanMahajan"
+    alt="GitHub contribution heatmap"
+    width="85%"
+  />
+</p>
+
 
 <br/>
 
