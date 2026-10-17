@@ -1,39 +1,154 @@
-![MasterHead](debian.jpg)
-<h1 align="center">Hi 👋, I'm Zahaan Javaid Mahajan</h1>
-<h3 align="center">From Kashmir</h3>
+# 👋 Hi, I'm Zahaan Javaid Mahajan
 
-## 💫 About Me:
+### Software Engineer → DevOps | Cloud | Platform Engineering
 
-I’m a Software Engineer transitioning into **DevOps, Cloud & Platform Engineering**, with a strong focus on building, automating, and operating reliable infrastructure.
+<p align="center">
+  <img src="debian.jpg" alt="Debian Linux" width="100%" />
+</p>
 
-- ☁️ Exploring **AWS, Cloud Infrastructure & Infrastructure as Code**
-- ☸️ Hands-on with **Kubernetes, Helm, Docker & Linux**
-- 🔄 Building **CI/CD pipelines** and GitOps workflows
-- 🐍 Using **Python** to automate DevOps and infrastructure tasks
-- 🏠 Running a self-hosted **Kubernetes homelab** with Proxmox and Talos Linux
-- 📦 Working with **NFS storage, MetalLB, Traefik, cert-manager & Argo CD**
-- 🛠️ Building practical projects to strengthen my **DevOps/SRE & Platform Engineering** skills
-- 💻 Formerly focused on **Flutter/Dart application development**
-- 📚 Always learning, experimenting, and improving through hands-on projects
-
-> **Currently:** Building, breaking, debugging, and automating infrastructure — one project at a time.
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zahaan_mahajan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zahan-mahajan-6bb365210/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@zahaanjavaid032) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ZahaanMahajan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ZahaanMahajan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZahaanMahajan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <a href="https://github.com/ZahaanMahajan">
+    <img src="https://img.shields.io/badge/GitHub-ZahaanMahajan-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/zahan-mahajan-6bb365210/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://portfolio.zahaan.online">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-00A98F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ZahaanMahajan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧑‍💻 About Me
 
+I'm a Software Engineer transitioning into **DevOps, Cloud, and Platform Engineering**, focused on building reliable infrastructure, automating workflows, and improving how applications are deployed and operated.
+
+- ☁️ Exploring **AWS, cloud networking, and Infrastructure as Code**
+- ☸️ Building hands-on experience with **Kubernetes, Helm, and container orchestration**
+- 🔄 Implementing **CI/CD pipelines and GitOps workflows**
+- 🏗️ Provisioning infrastructure using **Terraform**
+- 🐍 Writing Python scripts to automate infrastructure and operational tasks
+- 🏠 Operating a Kubernetes homelab using **Proxmox and Talos Linux**
+- 📦 Working with **Argo CD, MetalLB, Traefik, cert-manager, and NFS storage**
+- 🐳 Building, securing, and publishing container images
+- 📱 Bringing previous experience in **Flutter, Dart, and application development**
+
+> **My approach:** Learn by building, understand by debugging, and improve by automating.
+
+---
+
+## 🛠️ Tech Stack
+
+### ☁️ Cloud & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,terraform,linux,bash" alt="AWS, Terraform, Linux, Bash" />
+</p>
+
+### ☸️ Containers & Platform Engineering
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,ansible" alt="Docker, Kubernetes, Ansible" />
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" alt="Helm" />
+  <img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white" alt="Argo CD" />
+  <img src="https://img.shields.io/badge/Talos_Linux-FF7300?style=flat-square&logo=talos&logoColor=white" alt="Talos Linux" />
+</p>
+
+### 🔄 CI/CD, GitOps & Automation
+
+<p>
+  <img src="https://skillicons.dev/icons?i=githubactions,jenkins,git,python" alt="GitHub Actions, Jenkins, Git, Python" />
+  <img src="https://img.shields.io/badge/GitOps-326CE5?style=flat-square&logo=git&logoColor=white" alt="GitOps" />
+</p>
+
+### 🌐 Networking, Security & Observability
+
+<p>
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/Traefik-24A1C1?style=flat-square&logo=traefikproxy&logoColor=white" alt="Traefik" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
+  <img src="https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aqua&logoColor=white" alt="Trivy" />
+</p>
+
+### 💻 Software Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,spring,dart,flutter,html,css,js,react,postgres,firebase" alt="Programming languages and development tools" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🏠 Bare-Metal Kubernetes & GitOps Homelab
+
+A self-hosted Kubernetes environment built to explore platform engineering, cluster operations, networking, storage, and GitOps.
+
+- **Infrastructure:** Proxmox, Talos Linux
+- **Orchestration:** Kubernetes, Helm
+- **GitOps:** Argo CD, GitHub Actions
+- **Networking:** MetalLB, Traefik, Cloudflare DNS
+- **Security:** cert-manager, Let's Encrypt
+- **Storage:** OpenMediaVault, NFS CSI
+
+### 🖥️ DevOps Portfolio — GitOps Delivery
+
+A terminal-inspired portfolio website deployed to my Kubernetes homelab, with application changes delivered through an automated workflow.
+
+- Source control and CI with GitHub Actions
+- Container image builds and registry publishing
+- GitOps-based deployment using Argo CD
+- Kubernetes-based application hosting
+- Automated updates from repository changes
+
+<p align="center">
+  <a href="https://portfolio.zahaan.online">
+    <img src="https://img.shields.io/badge/Explore_My_Portfolio-00A98F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore my portfolio" />
+  </a>
+  <a href="https://github.com/ZahaanMahajan?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ZahaanMahajan&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=ZahaanMahajan&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZahaanMahajan&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used programming languages" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/zahan-mahajan-6bb365210/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://medium.com/@zahaanjavaid032">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  <a href="https://instagram.com/zahaan_mahajan">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building. Automating. Debugging. Learning.</i>
+  <br />
+  <b>One deployment at a time. 🚀</b>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ZahaanMahajan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
