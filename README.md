@@ -117,12 +117,12 @@ A terminal-inspired portfolio website deployed to my Kubernetes homelab, with ap
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ZahaanMahajan&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ZahaanMahajan&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
   <img width="49%" src="https://streak-stats.demolab.com?user=ZahaanMahajan&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZahaanMahajan&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used programming languages" />
+  <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ZahaanMahajan&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used programming languages" />
 </p>
 
 ---
